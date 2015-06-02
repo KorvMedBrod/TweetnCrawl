@@ -1,12 +1,19 @@
 TweetnCrawl
 ===========
+NOTE: This fork disables the online functionality and works without the backend
+
 The files for the game client
 
-runnable files: 
+runnable files(Windows, OSX, Linux): 
 
-https://www.dropbox.com/sh/bcbh8g89vr4dp2h/AAAkpXk8wghIU852OJcenEU-a?dl=0
+https://www.mediafire.com/folder/wanzz87anbtswrp,k5klgue70i2dwkl,3vf52fuzwgsxu5m/shared
 
-NOTE: A few users have reported that they have needed to restart the game for it to function. Also the server needs to be running otherwise the game will not be able to retrieve the data from twitter.
+Web player(Does not work on default google chrome):
+
+http://tiny.cc/TweetNCrawl
+
+
+NOTE: A few users have reported that they have needed to restart the game for it to function.
 
 
 Follow these steps to make unity work properly with github
